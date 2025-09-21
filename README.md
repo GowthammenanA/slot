@@ -28,12 +28,12 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Slot Time Table - YOUR NAME</title>
+    <title>Slot Time Table - GOWTHAMMENAN</title>
 </head>
 <body>
-    <IMG SRC="logo1.jpg"HEIGHT="150"WIDTH="500"BORDER=6>
+    <IMG src="/static/logo.png"HEIGHT="150"WIDTH="500"BORDER=6>
     <h2>Saveetha Engineering College</h2>
-    <h3>SLOT TIME TABLE - YOUR-NAME</h3>
+    <h3>SLOT TIME TABLE - GOWTHAMMENAN</h3>
 
     <table border="1">
         <tr BGCOLOR="YELLOW">
@@ -46,19 +46,19 @@ Execute the program using runserver command.
         </tr>
         <tr BGCOLOR="CYAN">
             <td BGCOLOR="YELLOW">8-10</td>
-            <td></td>
+            <td>CE</td>
             <td>FREE SLOT</td>
             <td></td>
-            <td>PHY</td>
-            <td>CHE</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr BGCOLOR="CYAN">
             <td BGCOLOR="YELLOW">10-12</td>
-            <td></td>
+            <td>FREE SLOT</td>
             <td>FWAD</td>
             <td></td>
-            <td>PHY</td>
-            <td>CHE</td>
+            <td></td>
+            <td>C</td>
         </tr>
         </tr>
         <tr BGCOLOR="CYAN">
@@ -67,17 +67,17 @@ Execute the program using runserver command.
         </tr>
         <tr BGCOLOR="CYAN">
             <td BGCOLOR="YELLOW">1-3</td>
+            <td>FWAD</td>
+            <td>CE</td>
+            <td>C</td>
             <td>FREE SLOT</td>
-            <td>MAT</td>
-            <td>MAT</td>
-            <td>SS</td>
             <td></td>
         </tr>
         <tr BGCOLOR="CYAN">
             <td BGCOLOR="YELLOW">3-5</td>
             <td>FREE SLOT</td>
-            <td>GER</td>
-            <td>CHE</td>
+            <td>FWAD</td>
+            <td>CE</td>
             <td>FWAD</td>
             <td></td>
         </tr>
@@ -98,27 +98,12 @@ Execute the program using runserver command.
         <tr>
             <td>2.</td>
             <td>19EN612</td>
-            <td>German Basic (GER)</td>
+            <td>COMMUNICATIVE ENGLISH(CE)</td>
         </tr>
         <tr>
             <td>3.</td>
             <td>19PH206</td>
-            <td>Physics for Information Technology (PHY)</td>
-        </tr>
-        <tr>
-            <td>4.</td>
-            <td>19CY205</td>
-            <td>Principles of Chemistry in Engineering (CHE)</td>
-        </tr>
-        <tr>
-            <td>5.</td>
-            <td>19MA201</td>
-            <td>Calculus and Matrix Algebra (MAT)</td>
-        </tr>
-        <tr>
-            <td>6.</td>
-            <td>19EY701</td>
-            <td>Soft Skills (SS)</td>
+            <td>C PROGRAMING(C)</td>
         </tr>
     </table>
 </body>
